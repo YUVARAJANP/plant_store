@@ -1,28 +1,27 @@
+# GreenO
 
-# Plant-Selling-Ecommerce-Website
+GreenO is a web-based platform for purchasing a variety of plants. It offers a user-friendly interface to browse, search, and buy plants, along with special deals and categories.
 
-Create a complete responsive online ecommerce website design for beginers using html css and vanilla javascript step by step.
+## Features
 
-The main feature of this website are:
+- Home page with promotional banners and sliders
+- Category-wise product listing
+- Detailed product pages with discounts and ratings
+- Shopping cart functionality
+- User login and registration
+- Contact form with Google Maps integration
+- Responsive design
 
-✔ Responsive sticky triple header / navbar with toggle menu bar effect.
-   
-✔ Responsive shopping cart box.
+## Technologies Used
 
-✔ Responsive home with touch slider effect using swipper.js
+- HTML
+- CSS
+- JavaScript
+- Font Awesome for icons
+- Swiper.js for sliders
 
-✔ Responsive banner card section using flexbox.
+## Setup
 
-✔ Responsive category card section using flexbox.
-
-✔ Responsive product card section using flexbox.
-
-✔ Responsive deal section with count down effect using flexbox.
-
-✔ Responsive and animated contact form section using flexbox.
-
-✔ Responsive footer section using flexbox.
-
-Resource: https://www.youtube.com/watch?v=OQbgfxff06s
-
-Key: #Ecommerce-Website, #Plant-shop, #FrontEnd
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/YUVARAJANP/plant_store.git
